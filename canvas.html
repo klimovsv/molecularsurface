@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="js/three.min.js"></script>
+    <script src="js/OrbitControls.js"></script>
+    <script src="js/Stats.js"></script>
+</head>
+<body>
+<script src="Tables.js"></script>
+<script src="Vector3.js"></script>
+<script src="Molecule.js"></script>
+<script src="Scene.js"></script>
+<script src="App.js"></script>
+<script src="ParserMol2.js"></script>
+<input type="file" id="files" onchange="app.getByFile(this.files[0])">
+<label for="http">moleculeId</label><input type="text" id="http" name="httpreqest">
+<input type="button" id="httpBut" value="compute" onclick="app.getByHttp(parseInt(document.getElementById('http').value,10))">
+</body>
+</html>

@@ -1,0 +1,40 @@
+home pc i5-3570 3.4Ghz(4cores) gpu geforce gtx670 ОС Windows 10
+      chrome 65.0.3325.181
+      atoms fps generatedsecs timetorender
+      3   60  0.05sec
+      49 60 0.5sec
+      91 60 0.98sec
+      156 48 1.34sec
+      200 32 2.1sec
+      246 40 2sec
+      304 16 4sec
+
+      opera 51.0.2830.55
+       3 60 0.05
+       49 60 0.58
+       91 60 1.17
+       156 50 1.3
+       200 32 2.3
+       246 42 2.35
+       304 16 4.7
+
+      notebook i5-8250U 1.6 Ghz(4cores)	Intel UHD Graphics 620 Linux Fedora 27
+      chrome 65.0.3325.181
+      3 60 0.05
+      49 60 0.5
+      91 50 0.8
+      156 35 1.38
+      200 26 1.9
+      246 32 1.8
+      304 13 3.6
+
+      firefox 59.0.1
+      3 60 0.07
+      49 43 0.7
+      91 20 1.3
+      156 14 2.17
+      200 9 3.35
+      246 12 2.41
+      304 5 5
+
+
